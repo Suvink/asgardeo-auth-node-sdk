@@ -3,6 +3,8 @@ node_modules/
 lib/node_modules/
 sample/node_modules/
 jspm_packages/
+cypress/screenshots/
+cypress/videos/
 
 # Distribution directories
 dist

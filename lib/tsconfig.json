@@ -27,6 +27,7 @@
             "dom",
             "es2017"
         ],
+        "types": ["cypress", "@testing-library/cypress"]
     },
     "compileOnSave": false,
     "exclude": [
